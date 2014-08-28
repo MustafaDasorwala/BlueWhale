@@ -2,12 +2,10 @@
 
 /** Irregular Words
 
-$irregularWords = array(
-	'singular' => 'plural' 
-);
- 
-**/
+  $irregularWords = array(
+  'singular' => 'plural'
+  );
 
+ * */
 $irregularWords = array(
-
 );
