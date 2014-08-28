@@ -11,6 +11,7 @@ SET SQL_MODE="NO_AUTO_VALUE_ON_ZERO";
 --
 -- Table structure for table `categories`
 --
+use framework;
 
 CREATE TABLE `categories` (
   `id` int(10) unsigned NOT NULL auto_increment,
